@@ -9,4 +9,5 @@ I am documenting my Data Structures & Algorithms journey
 
 ## Progress
 | Day | Problem solved |
+|------|----------|
 | 1 | Two Sum, Valid Anagram |
