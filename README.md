@@ -18,3 +18,5 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 6 | (15) 3Sum, (448) Find All Numbers Disappeared in an Array, (169) Majority Element |
 | 7 | (875) Koko Eating Bananas, (33) Search in Rotated Sorted Array, (69) Sqrt(x) |
 | 8 | (153) Find Minimum in Rotated Sorted Array, (74) Search a 2D Matrix |
+| 9 | (876) Middle of the Linked List |
+| 10 | (876) Middle of the Linked List (using fast and slow pointer approach), (237) Delete Node in a Linked List |
