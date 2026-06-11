@@ -20,3 +20,4 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 8 | (153) Find Minimum in Rotated Sorted Array, (74) Search a 2D Matrix |
 | 9 | (876) Middle of the Linked List |
 | 10 | (876) Middle of the Linked List (using fast and slow pointer approach), (237) Delete Node in a Linked List |
+| 11 | (19) Remove Nth Node From End of List |
