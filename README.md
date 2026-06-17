@@ -23,3 +23,4 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 11 | (19) Remove Nth Node From End of List |
 | 12 | (83) Remove Duplicates from Sorted List |
 | 13 | (206) Reverse Linked List |
+| 14 | (61) Rotate List, (160) Intersection of Two Linked Lists |
