@@ -27,3 +27,4 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 15 | (2) Add Two Numbers, (141) Linked List Cycle |
 | 16 | (142) Linked List Cycle II |
 | 17 | (83) Remove Duplicates from Sorted List, (82) Remove Duplicates from Sorted List II, (234) Palindrome Linked List, (19) Remove Nth Node From End of List |
+| 18 | (21) Merge Two Sorted Lists, (136) Single Number |
