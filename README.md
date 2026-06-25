@@ -31,3 +31,4 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 19 | (1189) Maximum Number of Balloons |
 | 20 | (86) Partition List |
 | 21 | (328) Odd Even Linked List, (1137) N-th Tribonacci Number |
+| 22 | (226) Invert Binary Tree |
