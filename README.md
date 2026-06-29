@@ -32,3 +32,7 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 20 | (86) Partition List |
 | 21 | (328) Odd Even Linked List, (1137) N-th Tribonacci Number |
 | 22 | (226) Invert Binary Tree |
+| 23 | (104) Maximum Depth of Binary Tree |
+| 24 | (100) Same Tree, (101) Symmetric Tree |
+| 25 | (144) Binary Tree Preorder Traversal |
+| 26 | (94) Binary Tree Inorder Traversal, (145) Binary Tree Postorder Traversal |
