@@ -37,3 +37,12 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 25 | (144) Binary Tree Preorder Traversal |
 | 26 | (94) Binary Tree Inorder Traversal, (145) Binary Tree Postorder Traversal |
 | 27 | (102) Binary Tree Level Order Traversal |
+| 28 | (28) Find the Index of the First Occurrence in a String |
+| 29 | (257) Binary Tree Paths |
+| 30 | (155) Min Stack |
+| 31 | (110) Balanced Binary Tree |
+| 32 | (112) Path Sum |
+| 33 | (404) Sum of Left Leaves |
+| 34 | (113) Path Sum II |
+| 35 | (236) Lowest Common Ancestor of a Binary Tree |
+| 36 | (129) Sum Root to Leaf Numbers |
