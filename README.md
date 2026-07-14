@@ -46,3 +46,8 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 34 | (113) Path Sum II |
 | 35 | (236) Lowest Common Ancestor of a Binary Tree |
 | 36 | (129) Sum Root to Leaf Numbers |
+| 37 | (199) Binary Tree Right Side View |
+| 38 | (103) Binary Tree Zigzag Level Order Traversal |
+| 39 | (235) Lowest Common Ancestor of a Binary Search Tree |
+| 40 | (105) Construct Binary Tree from Preorder and Inorder Traversal |
+| 41 | (230) Kth Smallest Element in a BST |
