@@ -51,3 +51,9 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 39 | (235) Lowest Common Ancestor of a Binary Search Tree |
 | 40 | (105) Construct Binary Tree from Preorder and Inorder Traversal |
 | 41 | (230) Kth Smallest Element in a BST |
+| 42 | (98) Validate Binary Search Tree |
+| 43 | (530) Minimum Absolute Difference in BST |
+| 44 | (501) Find Mode in Binary Search Tree |
+| 45 | (543) Diameter of Binary Tree, (1979) Find Greatest Common Divisor of Array |
+| 46 | (114) Flatten Binary Tree to Linked List |
+| 47 | (124) Binary Tree Maximum Path Sum |
