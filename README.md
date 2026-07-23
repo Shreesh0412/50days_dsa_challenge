@@ -57,3 +57,6 @@ I will be documenting my journey of learning Data Structures and Algorithms (DSA
 | 45 | (543) Diameter of Binary Tree, (1979) Find Greatest Common Divisor of Array |
 | 46 | (114) Flatten Binary Tree to Linked List |
 | 47 | (124) Binary Tree Maximum Path Sum |
+| 48 | (200) Number of Islands, (695) Max Area of Island |
+| 49 | (437) Path Sum III, (662) Maximum Width of Binary Tree |
+| 50 | (297) Serialize and Deserialize Binary Tree |
